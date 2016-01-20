@@ -1,5 +1,7 @@
 ## Papers
 
+* [Reflections on Trusting Trust by Ken Thompson]  (http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
+
 ### Data structures
 * [Purely Functional Data Structures](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf). (Progress: page 44)
 
