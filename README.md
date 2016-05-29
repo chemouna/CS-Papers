@@ -9,6 +9,8 @@
 * [Alias Types for Recursive Data Structures](https://www.cs.princeton.edu/~dpw/papers/alias-recursion.pdf). (Progress;: p. 5)
 * [FUNCTIONAL PEARL : The Zipper](https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/huet-zipper.pdf).
 
-
 ### Functional Programming  
 * [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
+
+### Testing 
+* [QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs](https://www.eecs.northwestern.edu/~robby/courses/395-495-2009-fall/quick.pdf)
