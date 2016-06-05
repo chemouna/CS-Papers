@@ -15,3 +15,5 @@
 ### Testing 
 * [QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs](https://www.eecs.northwestern.edu/~robby/courses/395-495-2009-fall/quick.pdf)
 
+### Parsing 
+* [Parsec, a fast combinator parser](http://research.microsoft.com/en-us/um/people/daan/download/parsec/parsec-letter.pdf)
