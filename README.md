@@ -11,6 +11,7 @@
 
 ### Functional Programming  
 * [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
+* [The Essence of functional programming](http://www.eliza.ch/doc/wadler92essence_of_FP.pdf)
 
 ### Testing 
 * [QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs](https://www.eecs.northwestern.edu/~robby/courses/395-495-2009-fall/quick.pdf)
