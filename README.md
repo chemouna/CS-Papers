@@ -14,6 +14,9 @@
 * [The Essence of functional programming](http://www.eliza.ch/doc/wadler92essence_of_FP.pdf)
 * [The Essence of Form Abstraction](http://groups.inf.ed.ac.uk/links/papers/formlets-essence.pdf)
 
+### Type Systems
+* [How to make ad-hoc polymorphism less ad hoc](http://www.cse.iitk.ac.in/users/karkare/courses/2010/cs653/Papers/ad-hoc-polymorphism.pdf)
+
 ### Testing 
 * [QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs](https://www.eecs.northwestern.edu/~robby/courses/395-495-2009-fall/quick.pdf)
 
