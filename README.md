@@ -13,6 +13,7 @@
 * [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
 * [The Essence of functional programming](http://www.eliza.ch/doc/wadler92essence_of_FP.pdf)
 * [The Essence of Form Abstraction](http://groups.inf.ed.ac.uk/links/papers/formlets-essence.pdf)
+* [Can programming be liberated from the von Neumann style ? By John Backus](http://worrydream.com/refs/Backus-CanProgrammingBeLiberated.pdf)
 
 ### Type Systems
 * [How to make ad-hoc polymorphism less ad hoc](http://www.cse.iitk.ac.in/users/karkare/courses/2010/cs653/Papers/ad-hoc-polymorphism.pdf)
