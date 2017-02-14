@@ -26,4 +26,4 @@
 
 ### Sorting 
 * [Distribution counting as a method for sorting test scores](http://download.springer.com/static/pdf/870/art%253A10.3758%252FBF03200958.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.3758%2FBF03200958&token2=exp=1486891254~acl=%2Fstatic%2Fpdf%2F870%2Fart%25253A10.3758%25252FBF03200958.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.3758%252FBF03200958*~hmac=722f20ede50b0a837ce1b6a79adf4f2731e6a0e3e5f46a653bf0f5bfedede8cd)
-
+* [Sock Sorting](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.178.4654&rep=rep1&type=pdf)
