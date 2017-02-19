@@ -11,7 +11,10 @@ A collection of Papers i have read and found useful.
 * [Alias Types for Recursive Data Structures](https://www.cs.princeton.edu/~dpw/papers/alias-recursion.pdf). (Progress;: p. 5)
 * [FUNCTIONAL PEARL : The Zipper](https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/huet-zipper.pdf).
 
-### Functional Programming
+## Algorithms 
+* [An Improved Monte Carlo Factorization Algorithm](http://maths-people.anu.edu.au/~brent/pd/rpb051i.pdf)
+
+## Functional Programming
 * [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
 * [The Essence of functional programming](http://www.eliza.ch/doc/wadler92essence_of_FP.pdf)
 * [The Essence of Form Abstraction](http://groups.inf.ed.ac.uk/links/papers/formlets-essence.pdf)
