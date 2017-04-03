@@ -14,6 +14,9 @@ A collection of Papers i have read and found useful.
 ## Algorithms 
 * [An Improved Monte Carlo Factorization Algorithm](http://maths-people.anu.edu.au/~brent/pd/rpb051i.pdf)
 
+## Dynamic Programming
+* [The Concave Least-Weight Subsequence Problem Revisited](http://www.cs.ust.hk/mjg_lib/bibs/DPSu/DPSu.Files/Wi88.PDF)
+
 ## Functional Programming
 * [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
 * [The Essence of functional programming](http://www.eliza.ch/doc/wadler92essence_of_FP.pdf)
