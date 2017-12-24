@@ -13,6 +13,7 @@ A collection of Papers i have read and found useful.
 
 ## Algorithms 
 * [An Improved Monte Carlo Factorization Algorithm](http://maths-people.anu.edu.au/~brent/pd/rpb051i.pdf)
+* [Depth-First Search and Linear Graph Algorithms](https://rjlipton.files.wordpress.com/2009/10/dfs1971.pdf)
 
 ## Dynamic Programming
 * [The Concave Least-Weight Subsequence Problem Revisited](http://www.cs.ust.hk/mjg_lib/bibs/DPSu/DPSu.Files/Wi88.PDF)
