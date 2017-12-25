@@ -14,6 +14,7 @@ A collection of Papers i have read and found useful.
 ## Algorithms 
 * [An Improved Monte Carlo Factorization Algorithm](http://maths-people.anu.edu.au/~brent/pd/rpb051i.pdf)
 * [Depth-First Search and Linear Graph Algorithms](https://rjlipton.files.wordpress.com/2009/10/dfs1971.pdf)
+* [A Note on Eswaran And Tarjan's Algorithm for the strong connectivity augmentation problem](http://www.springer.com/cda/content/document/cda_downloaddocument/9780387235288-c2.pdf?SGWID=0-0-45-326589-p35140574)
 
 ## Dynamic Programming
 * [The Concave Least-Weight Subsequence Problem Revisited](http://www.cs.ust.hk/mjg_lib/bibs/DPSu/DPSu.Files/Wi88.PDF)
