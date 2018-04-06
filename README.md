@@ -27,6 +27,7 @@ A collection of Papers i have read and found useful.
 
 ## Type Systems
 * [How to make ad-hoc polymorphism less ad hoc](http://www.cse.iitk.ac.in/users/karkare/courses/2010/cs653/Papers/ad-hoc-polymorphism.pdf)
+* [On Understanding Data Abstraction, Revisited](https://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
 
 ## Polymorphism
 * [Practical Variable-Arity Polymorphism](http://www.ccs.neu.edu/racket/pubs/esop09-sthf.pdf)
